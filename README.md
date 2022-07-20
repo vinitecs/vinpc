@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinpc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia a dia
 
 <div style="display:inline-block">
 <br/>
